@@ -1,1 +1,3 @@
-yes, tak, no, nie, oak, dąb, set fire to sth, podpalić coś, clook, zegar, tea, herbata, juice, sok, 
+rock,skała
+sand,piasek
+sun,słońce
