@@ -1,3 +1,6 @@
 rock,skała
 sand,piasek
 sun,słońce
+lamp,lampA
+air,powietRZe
+angel,anioł
